@@ -1,0 +1,2 @@
+# whiteboard
+Collaborative virtual whiteboard.
